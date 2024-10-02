@@ -1,7 +1,6 @@
 import React from 'react'
 import { AiOutlineAppstore, AiOutlineHome } from 'react-icons/ai'
 import { BiHeart } from 'react-icons/bi'
-import { FiDivideCircle } from 'react-icons/fi'
 import { HiOutlineShoppingBag } from 'react-icons/hi'
 import {  IoMenuOutline } from 'react-icons/io5'
 

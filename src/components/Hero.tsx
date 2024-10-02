@@ -1,12 +1,11 @@
 "use client";
-import { dot } from "node:test/reporters";
 import React from "react";
 import Slider from "react-slick";
 import Slide from "./Slide";
 
 
 const Hero = () => {
-  var settings = {
+  let settings = {
     dot: true,
     infinite: true,
     slidesToShow: 1,
